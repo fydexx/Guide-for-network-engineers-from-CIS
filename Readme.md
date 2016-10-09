@@ -27,7 +27,7 @@ Occasional writer: http://xgu.ru/wiki/JUNOS
 - What to learn
 - Resume considerations
 - How to attend interviews
-- Where find jobs
+- Where to find job
 
 ---
 
@@ -336,7 +336,7 @@ https://en.wikipedia.org/wiki/Situation,_Task,_Action,_Result
 
 ---
 
-# Where to find jobs?
+# Where to find job?
 
 **US and EU**
 https://www.linkedin.com/
@@ -355,16 +355,17 @@ https://hh.ru/
 # Appendix A - Software
 
 **Terminal Clients**
-- [Secure CRT](https://www.vandyke.com/products/securecrt/) - powerfull terminal client
-- [Xshell](https://www.netsarang.com/products/xsh_overview.html) - free for non-commercial use
-- [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) - simple terminal client
-- [Royal TS](https://www.royalapplications.com/ts/win/features) - Powerful multi-platform terminal client
+
+[Secure CRT](https://www.vandyke.com/products/securecrt/) - powerfull terminal client
+[Xshell](https://www.netsarang.com/products/xsh_overview.html) - free for non-commercial use
+[Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) - simple terminal client
+[Royal TS](https://www.royalapplications.com/ts/win/features) - Powerful multi-platform terminal client
 
 **Powerfull text editors - musthave**
 
-- [SublimeText](https://www.sublimetext.com/)
-- [Atom](https://atom.io/)
-- [Notepad++](https://notepad-plus-plus.org/)
+[SublimeText](https://www.sublimetext.com/)
+[Atom](https://atom.io/)
+[Notepad++](https://notepad-plus-plus.org/)
 
 ---
 
