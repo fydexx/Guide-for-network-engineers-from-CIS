@@ -268,7 +268,7 @@ https://www.topresume.com/
 
 **Repeat all technical stuff**
 
-Make special emphasis on what is written in your resume
+Pay attention on technologies that was mentioned in your resume
 
 Use this mindmaps: https://ccie24081.files.wordpress.com/2013/03/cisco_rs_quick_review_kit_v5.pdf
 
