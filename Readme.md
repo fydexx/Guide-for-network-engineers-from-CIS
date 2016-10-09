@@ -359,7 +359,7 @@ https://hh.ru/
 [Secure CRT](https://www.vandyke.com/products/securecrt/) - powerfull terminal client
 [Xshell](https://www.netsarang.com/products/xsh_overview.html) - free for non-commercial use
 [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) - simple terminal client
-[Royal TS](https://www.royalapplications.com/ts/win/features) - Powerful multi-platform terminal client
+[Royal TS](https://www.royalapplications.com/ts/win/features) - powerful multi-platform terminal client
 
 **Powerfull text editors - musthave**
 
