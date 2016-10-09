@@ -318,7 +318,7 @@ https://en.wikipedia.org/wiki/Situation,_Task,_Action,_Result
 
 ---
 
-**Usefull links**
+**Useful links**
 
 - [Show 263: The Job Interview Process](http://packetpushers.net/podcast/podcasts/show-263-job-interview-process/)
 - [Confessions Of Technical Interviewer](http://packetpushers.net/confession-technical-interviewer/)
@@ -337,7 +337,7 @@ https://en.wikipedia.org/wiki/Situation,_Task,_Action,_Result
 
 ---
 
-# Where find jobs
+# Where to find jobs?
 
 **US and EU**
 https://www.linkedin.com/
@@ -359,6 +359,7 @@ https://hh.ru/
 - [Secure CRT](https://www.vandyke.com/products/securecrt/) - powerfull terminal client
 - [Xshell](https://www.netsarang.com/products/xsh_overview.html) - free for non-commercial use
 - [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) - simple terminal client
+- [Royal TS](https://www.royalapplications.com/ts/win/features) - Powerful multi-platform terminal client
 
 **Powerfull text editors - musthave**
 
