@@ -33,6 +33,8 @@ Occasional writer: http://xgu.ru/wiki/JUNOS
 
 # English language
 
+---
+
 **Key considerations**
 
 - English language is the biggest problem for network engineers from CIS.
@@ -41,8 +43,6 @@ Occasional writer: http://xgu.ru/wiki/JUNOS
 - Spend at least 1 hour a day to practice English.
 
 ---
-
-# English language
 
 **Study with a teacher**
 
@@ -56,8 +56,6 @@ http://englex.ru/
 
 ---
 
-# English language
-
 **Divide your study plan to parts.**
 
 - Vocabulary and Grammar
@@ -70,8 +68,6 @@ http://englex.ru/
 
 ---
 
-# English language
-
 - **Vocabulary**
 
 Learn every day at least 10-20 new words.
@@ -81,8 +77,6 @@ A good site for building your vocabulary:
 https://lingualeo.com/
 
 ---
-
-# English language
 
 - **Grammar**
 
@@ -94,8 +88,6 @@ https://lingualeo.com/
 
 ---
 
-# English language
-
 - **Listening**
 
 A good way is to learn by watching English TV shows. You can start with subtitles and then, when you feel confident enought you can try without them.
@@ -106,8 +98,6 @@ https://ororo.tv/en
 
 ---
 
-# English language
-
 - **Speaking**
 
 Speaking - one of the main skills.
@@ -117,8 +107,6 @@ Try to use all possibilities to speak with an English speaking person.
 Practice speaking with your teacher.
 
 ---
-
-# English language
 
 - **Pronunciation**
 
@@ -131,8 +119,6 @@ http://soundsofspeech.uiowa.edu/english/english.html
 
 ---
 
-# English language
-
 - **Writing**
 
 Write essays with your teacher.
@@ -141,9 +127,10 @@ Participate in English speaking communities.
 
 Blog in English.
 
----
+https://www.grammarly.com/
+Online proofreading tool that checks text for grammar, punctuation, and style, and features a contextual spelling checker and plagiarism detector.
 
-# English language
+---
 
 - **Reading**
 
@@ -165,6 +152,8 @@ Read English networking blogs.
 
 # What to learn
 
+---
+
 Bad news that there is a lot of work to do.
 
 - It depends on your current level
@@ -175,8 +164,6 @@ Good news - many things are the same for all.
 
 ---
 
-# What to learn
-
 **Basic level**
 
 - "Сети для самых маленьких"
@@ -185,8 +172,6 @@ http://linkmeup.ru/sdsm/
 - INE - CCNA Routing & Switching v3 200-105 ICND2 Technologies
 
 ---
-
-# What to learn
 
 **Intermediate level**
 
@@ -198,8 +183,6 @@ OR
 
 ---
 
-# What to learn
-
 **Advanced level**
 
 - INE - CCIEv5 R&S Advanced Technologies video course
@@ -210,8 +193,6 @@ OR
 
 ---
 
-# What to learn
-
 What to read at any level:
 
 - Routing-Bits Handbook for Routing & Switching
@@ -219,8 +200,6 @@ What to read at any level:
 - CCIE Routing and Switching v5.0 Official Cert Guide, Volume 2
 
 ---
-
-# What to learn
 
 Classic books for all network engineers
 
@@ -233,8 +212,6 @@ http://linkmeup.ru/blog/243.html
 
 ---
 
-# What to learn
-
 Podcasts:
 - Packet Pushers
 http://packetpushers.net/
@@ -246,8 +223,6 @@ Cisco Live - free presentations about networking bleeding edge technologies
 
 ---
 
-# What to learn
-
 **Be certified**
 
 It depends on your needs.
@@ -257,8 +232,6 @@ It depends on your needs.
 - [Huawei Networks](http://e-learning.huawei.com/zone/pub/lsportal/en/Certification.html?trk=profile_certification_title)
 
 ---
-
-# What to learn
 
 Basic level of certification:
 
@@ -281,8 +254,102 @@ Basic level of certification:
 
 # Resume considerations
 
+- Use these tips
+https://www.careercup.com/resume
+http://steve-yegge.blogspot.ru/2007_09_01_archive.html
+
+- Here HRs from USA can check your resume for free
+https://www.topresume.com/
+
+---
+
+# How to attend interviews
+
+---
+
+**Repeat all technical stuff**
+
+Make special emphasis on what is written in your resume
+
+Use this mindmaps: https://ccie24081.files.wordpress.com/2013/03/cisco_rs_quick_review_kit_v5.pdf
+
+---
+
+- Be ready for behavioral questions
+- Think of about 20 interview questions you will get.
+- Have 2-3 answers for each
+- Have a story, not just data, about something you accomplished
+- Use STAR method
+https://en.wikipedia.org/wiki/Situation,_Task,_Action,_Result
+
+---
+
+**The most asked questions at job interviews**
+- Can you tell me a little about yourself? 
+- How did you hear about the position? 
+- What do you know about the company? 
+- Why do you want this job? 
+- Why should we hire you?
+- What are your greatest professional strengths? 
+- What do you consider to be your weaknesses? 
+- What is your greatest professional achievement? 
 
 
+---
+
+- Tell me about a challenge or conflict you've faced at work, and how you dealt with it. 
+- Where do you see yourself in five years? 
+- What's your dream job? 
+- Why are you leaving your current job? 
+- What are you looking for in a new position? 
+- How would your boss and co-workers describe you? 
+- How do you deal with pressure or stressful situations? 
+- What are your salary requirements? 
+
+---
+
+**Have questions for the interviewer**
+
+- How large is your team?
+- How are decisions made in your team?
+- How many meetings do you have per week?
+- What is the work life like?
+
+
+---
+
+**Usefull links**
+
+- [Show 263: The Job Interview Process](http://packetpushers.net/podcast/podcasts/show-263-job-interview-process/)
+- [Confessions Of Technical Interviewer](http://packetpushers.net/confession-technical-interviewer/)
+- [Four Interview Questions I Have Asked Network Engineering Candidates](http://packetpushers.net/four-interview-questions-i-have-asked-network-engineering-candidates/)
+- [Show 04 – The Interview Process](http://packetpushers.net/podcast/podcasts/show-4-the-interview-process/)
+
+---
+
+# Resume and Interview
+
+**Summary**
+
+- Сreate a good resume using tips
+- Repeat all technical stuff from your resume
+- Be ready for behavioral questions
+
+---
+
+# Where find jobs
+
+**US and EU**
+https://www.linkedin.com/
+http://www.indeed.com/
+http://www.monster.com/
+
+**CIS**
+https://hh.ru/
+
+---
+
+# The end
 
 ---
 
