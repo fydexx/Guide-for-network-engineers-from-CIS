@@ -279,6 +279,9 @@ Basic level of certification:
 
 ---
 
+# Resume considerations
+
+
 
 
 ---
