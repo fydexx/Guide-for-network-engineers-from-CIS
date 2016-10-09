@@ -10,14 +10,14 @@ Guide for network engineers from CIS
 
 # Who I am
 
-My name is Maxim. You can know me as "mxssl".
+My name is Maxim. I go by the name of "mxssl".
 
-I am a network engineer with 5+ years of experience in networking fields.
+I am a network engineer with 5+ years of experience in networking field.
 
 Co-author: https://telegram.me/ntwrk
 Editor: https://telegram.me/networklsa
 Blogger: https://mxssl.wordpress.com/
-Sometimes writer: http://xgu.ru/wiki/JUNOS
+Occasional writer: http://xgu.ru/wiki/JUNOS
 
 ---
 
@@ -36,9 +36,9 @@ Sometimes writer: http://xgu.ru/wiki/JUNOS
 **Key considerations**
 
 - English language is the biggest problem for network engineers from CIS.
-- Often enginners can listen and read, but completely cannot say or write anything.
+- People can often listen and read, but struggle with verbal and writing skills.
 - You must improve your English every day. There is no other way. 
-- Waste at least 1 hour a day for English language learning.
+- Spend at least 1 hour a day to practice English.
 
 ---
 
@@ -46,12 +46,12 @@ Sometimes writer: http://xgu.ru/wiki/JUNOS
 
 **Study with a teacher**
 
-The best way is study with native speaker, but for start non-native is good too.
+The best way is to study with a native speaker, but for a start non-native speakers are good too.
 
 You can find native speaking teachers here:
 https://www.italki.com/home
 
-Non-native (they are more cheaper ofcourse):
+Non-native (they are more cheaper of course):
 http://englex.ru/
 
 ---
@@ -66,7 +66,7 @@ http://englex.ru/
 - Writing
 - Reading
 
-**Every day give each part the time.**
+**Study all parts daily**
 
 ---
 
@@ -76,7 +76,7 @@ http://englex.ru/
 
 Learn every day at least 10-20 new words.
 
-Good site for building your vocabulary:
+A good site for building your vocabulary:
 
 https://lingualeo.com/
 
@@ -98,9 +98,9 @@ https://lingualeo.com/
 
 - **Listening**
 
-Good way is learn throuh watching English TV shows. You can do it with subtitles, but the next stage is watching without subtitles.
+A good way is to learn by watching English TV shows. You can start with subtitles and then, when you feel confident enought you can try without them.
 
-Great site for building your listening skill:
+A great site for building your listening skills:
 
 https://ororo.tv/en
 
@@ -112,9 +112,9 @@ https://ororo.tv/en
 
 Speaking - one of the main skills.
 
-Try to use all possibilities for speak with English speaking persons.
+Try to use all possibilities to speak with an English speaking person.
 
-Practice this skill with your teacher.
+Practice speaking with your teacher.
 
 ---
 
@@ -126,7 +126,7 @@ Pay attention to the pronunciation!
 
 Do not speak as Borat.
 
-Good site for training your pronunciation:
+A good resource for training your pronunciation:
 http://soundsofspeech.uiowa.edu/english/english.html
 
 ---
@@ -139,7 +139,7 @@ Write essays with your teacher.
 
 Participate in English speaking communities.
 
-Blogging in English.
+Blog in English.
 
 ---
 
