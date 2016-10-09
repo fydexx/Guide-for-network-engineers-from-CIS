@@ -72,8 +72,7 @@ http://englex.ru/
 
 Learn every day at least 10-20 new words.
 
-A good site for building your vocabulary:
-
+A good site that helps you learn new words and improve your vocabulary
 https://lingualeo.com/
 
 ---
@@ -90,7 +89,7 @@ https://lingualeo.com/
 
 - **Listening**
 
-A good way is to learn by watching English TV shows. You can start with subtitles and then, when you feel confident enought you can try without them.
+Try watching your favorite movies or TV-series in English. Start with subtitles and once feel more confident try without them.
 
 A great site for building your listening skills:
 
@@ -236,7 +235,7 @@ It depends on your needs.
 Basic level of certification:
 
 - Cisco: CCNA R&S
-- Juniper: JNCIA-JUNOS
+- Juniper: JNCIA-Junos
 - Huawei: HCDA-HNTD
 
 ---
